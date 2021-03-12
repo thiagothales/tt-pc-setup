@@ -1,5 +1,9 @@
 sudo apt-get update
 
+sudo apt-get install -y blueman
+
+clear
+
 echo 'installing NodeJS'
 sudo apt install nodejs
 
@@ -53,3 +57,5 @@ sudo pip install requests
 sudo pip install beautifulsoup4
 sudo pip install django
 sudo pip install numpy
+
+clear
